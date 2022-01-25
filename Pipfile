@@ -1,0 +1,31 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+numpy = "*"
+matplotlib = "*"
+jupyterlab = "*"
+pandas = "*"
+geopandas = "*"
+shapely = "*"
+missingno = "*"
+seaborn = "*"
+descartes = "*"
+selenium = "*"
+bs4 = "*"
+requests = "*"
+sklearn = "*"
+jyquickhelper = "*"
+tqdm = "*"
+flask = "*"
+flask-restplus = "*"
+python-dotenv = "*"
+mysql-connector-python = "*"
+py2neo = "*"
+
+[requires]
+python_version = "3"
